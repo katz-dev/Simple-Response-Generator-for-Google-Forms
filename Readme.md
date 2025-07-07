@@ -189,4 +189,4 @@ Don’t worry—even if you don’t know much about programming, I’ll make it 
       return keywordList.some(k => lc.includes(k));
     }
 
-If you have any questions about the script, feel free to drop a comment—I should be able to help you out with any issues.
+If you have any questions about the script, feel free to drop a comment.
